@@ -4,7 +4,7 @@ export default function Portfolio() {
     <div className="min-h-screen bg-gray-100 text-gray-800 font-sans">
       {/* Header */}
       <header className="bg-blue-600 text-white py-10 text-center shadow-lg">
-        <h1 className="text-4xl font-bold">Laxmi Prasanna</h1>
+        <h1 className="text-4xl font-bold">Laxmi Prasanna Kandakatla</h1>
         <p className="text-lg mt-2">ETL Tester | SQL Developer | QA Enthusiast</p>
       </header>
 
@@ -99,10 +99,9 @@ export default function Portfolio() {
       <section className="max-w-5xl mx-auto px-6 pb-10">
         <div className="bg-white rounded-2xl shadow-md p-6 text-center">
           <h2 className="text-2xl font-semibold mb-4">Contact</h2>
-          <p>Email: yourmail@gmail.com</p>
-          <p>Phone: +91 XXXXX XXXXX</p>
-          <p>GitHub: github.com/yourusername</p>
-          <p>LinkedIn: linkedin.com/in/yourprofile</p>
+          <p>Email: prasanna.kandakatla156@gmail.com</p>
+          <p>GitHub: github.com/prasannakandakatla</p>
+          <p>LinkedIn: linkedin.com/in/laxmi-prasanna-95a5a140a/</p>
         </div>
       </section>
 
